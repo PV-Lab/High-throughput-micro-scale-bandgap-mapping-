@@ -3,7 +3,7 @@
 This repo contains the data and algorithms for manuscript "High-throughput micro-scale bandgap mapping for perovskite-inspired materials with complex composition space".
 
 ## Raw data
-All spatially-resolved hyperspectral imaging raw data and bandgap analysis results can be found at https://drive.google.com/drive/folders/1BNqnNCenH5jfw8lUP5zS3Z8ytohY-6gB?usp=sharing. Transient absorption data can be found in the zip file named TA raw data with label.
+All hyperspectral imaging hypercubes, spatially-resolved spectra and bandgap analysis results can be found at https://osf.io/nx2ae/. 
 
 ## Bandgap Extraction Code
 The bandgap extraction algorithm in this manuscript was adapted from **Siemenn, A. E. et al. Using scalable computer vision to automate high-throughput semiconductor characterization. Nat. Commun. 15, 4654 (2024)**. The original code is available at https://github.com/PV-Lab/Autocharacterization-Bandgap. The main changes made for better fitting and  generalizability are summirized in the table below: 
